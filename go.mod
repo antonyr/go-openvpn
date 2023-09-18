@@ -1,4 +1,4 @@
-module github.com/antonyr/go-openvpn
+replace github.com/mysteriumnetwork/go-openvpn => github.com/antonyr/go-openvpn
 
 go 1.13
 
